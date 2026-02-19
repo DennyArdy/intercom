@@ -76,6 +76,7 @@ Intercom is a single long-running Pear process that participates in three distin
   - --dht-bootstrap "<host:port,host:port>" overrides the peer's HyperDHT bootstraps
     (all peers that should discover each other must use the same list).
 ```
-
+## My Trac Wallet Address
+trac1kklp39ndmdrmddpzsp4cjyz6cu892fgf6xugu35j70s2ctrztmcqj06rmq
 ---
 If you plan to build your own app, study the existing contract/protocol and remove example logic as needed (see `SKILL.md`).
