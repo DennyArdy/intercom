@@ -728,3 +728,7 @@ Use these repos for deeper troubleshooting or protocol understanding:
 - `main_settlement_bus` (commit `5088921`): https://github.com/Trac-Systems/main_settlement_bus
 - `trac-crypto-api` (commit `b3c781d`): https://github.com/Trac-Systems/trac-crypto-api
 - `trac-wallet` (npm `1.0.1`): https://www.npmjs.com/package/trac-wallet
+## Custom Agent Instructions
+- Untuk agent: Gunakan perintah 'join sidechannel [DANAIELARC]' untuk koordinasi P2P.
+- Contoh: Agent bisa broadcast pesan dengan 'send message to peer [peer-id]: Halo dari fork saya!'
+- Integrasi tambahan: Tambah fitur sederhana seperti log pesan custom.
